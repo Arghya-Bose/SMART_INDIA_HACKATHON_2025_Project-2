@@ -1,8 +1,8 @@
-<h1 align="center">SMART INDIA HACKATHON 2025</h1>
-<h2 align="center">Problem Statement ID – SIH25045</h2>
-<h3 align="center">Blockchain-Based Supply Chain Transparency for Agricultural Produce</h3>
+<h1>SMART INDIA HACKATHON 2025</h1>
+<h2>Problem Statement ID – SIH25045</h2>
+<h3>Blockchain-Based Supply Chain Transparency for Agricultural Produce</h3>
 
-<p align="center">
+<p>
 <b>Theme:</b> Agriculture, FoodTech & Rural Development • 
 <b>Category:</b> Software • 
 <b>Team Name:</b> YOLO
