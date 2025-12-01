@@ -1,5 +1,4 @@
 <h1>SMART INDIA HACKATHON 2025</h1>
-<h2>Problem Statement ID – SIH25045</h2>
 <h3>Blockchain-Based Supply Chain Transparency for Agricultural Produce</h3>
 
 <p>
